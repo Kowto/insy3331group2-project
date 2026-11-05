@@ -1,6 +1,7 @@
 # insy3331group2-project
 INSY-3331 Group Project
-Idea: Car information grabbing project
+
+# Lemonaid: A car information grabbing software
 
 # Roles
 Product Lead - Jaime
