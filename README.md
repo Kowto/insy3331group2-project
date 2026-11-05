@@ -1,5 +1,6 @@
 # insy3331group2-project
 INSY-3331 Group Project
+Idea: Car information grabbing project
 
 # Roles
 Product Lead - Jaime
